@@ -1,0 +1,5 @@
+D:\DesenvolvedorC#\Projeto\sa01-wellington\sa01.Aplicacao7\obj\Debug\net6.0\sa01.Aplicacao7.csproj.AssemblyReference.cache
+D:\DesenvolvedorC#\Projeto\sa01-wellington\sa01.Aplicacao7\obj\Debug\net6.0\sa01.Aplicacao7.GeneratedMSBuildEditorConfig.editorconfig
+D:\DesenvolvedorC#\Projeto\sa01-wellington\sa01.Aplicacao7\obj\Debug\net6.0\sa01.Aplicacao7.AssemblyInfoInputs.cache
+D:\DesenvolvedorC#\Projeto\sa01-wellington\sa01.Aplicacao7\obj\Debug\net6.0\sa01.Aplicacao7.AssemblyInfo.cs
+D:\DesenvolvedorC#\Projeto\sa01-wellington\sa01.Aplicacao7\obj\Debug\net6.0\sa01.Aplicacao7.csproj.CoreCompileInputs.cache

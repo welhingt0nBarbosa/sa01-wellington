@@ -1,0 +1,15 @@
+D:\DesenvolvedorC#\Projeto\sa01-wellington\sa01.aplicaca01\bin\Debug\net6.0\sa01.aplicaca01.exe
+D:\DesenvolvedorC#\Projeto\sa01-wellington\sa01.aplicaca01\bin\Debug\net6.0\sa01.aplicaca01.deps.json
+D:\DesenvolvedorC#\Projeto\sa01-wellington\sa01.aplicaca01\bin\Debug\net6.0\sa01.aplicaca01.runtimeconfig.json
+D:\DesenvolvedorC#\Projeto\sa01-wellington\sa01.aplicaca01\bin\Debug\net6.0\sa01.aplicaca01.dll
+D:\DesenvolvedorC#\Projeto\sa01-wellington\sa01.aplicaca01\bin\Debug\net6.0\sa01.aplicaca01.pdb
+D:\DesenvolvedorC#\Projeto\sa01-wellington\sa01.aplicaca01\obj\Debug\net6.0\sa01.aplicaca01.csproj.AssemblyReference.cache
+D:\DesenvolvedorC#\Projeto\sa01-wellington\sa01.aplicaca01\obj\Debug\net6.0\sa01.aplicaca01.GeneratedMSBuildEditorConfig.editorconfig
+D:\DesenvolvedorC#\Projeto\sa01-wellington\sa01.aplicaca01\obj\Debug\net6.0\sa01.aplicaca01.AssemblyInfoInputs.cache
+D:\DesenvolvedorC#\Projeto\sa01-wellington\sa01.aplicaca01\obj\Debug\net6.0\sa01.aplicaca01.AssemblyInfo.cs
+D:\DesenvolvedorC#\Projeto\sa01-wellington\sa01.aplicaca01\obj\Debug\net6.0\sa01.aplicaca01.csproj.CoreCompileInputs.cache
+D:\DesenvolvedorC#\Projeto\sa01-wellington\sa01.aplicaca01\obj\Debug\net6.0\sa01.aplicaca01.dll
+D:\DesenvolvedorC#\Projeto\sa01-wellington\sa01.aplicaca01\obj\Debug\net6.0\refint\sa01.aplicaca01.dll
+D:\DesenvolvedorC#\Projeto\sa01-wellington\sa01.aplicaca01\obj\Debug\net6.0\sa01.aplicaca01.pdb
+D:\DesenvolvedorC#\Projeto\sa01-wellington\sa01.aplicaca01\obj\Debug\net6.0\sa01.aplicaca01.genruntimeconfig.cache
+D:\DesenvolvedorC#\Projeto\sa01-wellington\sa01.aplicaca01\obj\Debug\net6.0\ref\sa01.aplicaca01.dll
